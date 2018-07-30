@@ -2,14 +2,14 @@ import IIII
 
 
 def IIIl(llll):
-    if IIII.llll(llll) <= 1:
+    if IIII.lIIl(IIII.llll(llll)):
         return llll
-    lllI = IIII.llll(llll) // 2
+    lllI = IIII.lIlI(IIII.llll(llll))
     llIl = llll[:lllI]
     llII = llll[lllI:]
     lIll = IIIl(llIl)
     lIlI = IIIl(llII)
-    lIIl = lIII = 0
+    lIIl = lIII = IIII.lIII()
     Illl = []
     while lIIl < IIII.llll(lIll) and lIII < IIII.llll(lIlI):
         if lIll[lIIl] < lIlI[lIII]:
