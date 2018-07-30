@@ -1,23 +1,24 @@
 import IIII
 
 
-def IIIl(llll):
-    if IIII.lIIl(IIII.llll(llll)):
-        return llll
-    lllI = IIII.lIlI(IIII.llll(llll))
-    llIl = llll[:lllI]
-    llII = llll[lllI:]
+def IIIl(l1ll):
+    if IIII.lIIl(IIII.llll(l1ll)):
+        return l1ll
+    lllI = IIII.lIlI(IIII.llll(l1ll))
+    llIl = l1ll[:lllI]
+    llII = l1ll[lllI:]
     lIll = IIIl(llIl)
-    lIlI = IIIl(llII)
+    lI1I = IIIl(llII)
     lIIl = lIII = IIII.lIII()
     Illl = []
-    while lIIl < IIII.llll(lIll) and lIII < IIII.llll(lIlI):
-        if lIll[lIIl] < lIlI[lIII]:
+    while lIIl < IIII.llll(lIll) and lIII < IIII.llll(lI1I):
+        if lIll[lIIl] < lI1I[lIII]:
             IIII.lllI(Illl, lIll[lIIl])
             lIIl+=1
         else:
-            IIII.lllI(Illl, lIlI[lIII])
+            IIII.lllI(Illl, lI1I[lIII])
             lIII+=1
     Illl += lIll[lIIl:]
-    Illl += lIlI[lIII:]
+    Illl += lI1I[lIII:]
+
     return Illl
