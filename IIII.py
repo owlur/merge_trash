@@ -12,3 +12,11 @@ def lIII():
 
 def lIIl(llII):
     return llII <= 1
+
+
+def aMM(l):
+    return ('',len(list) // 2)
+
+class cMb:
+    def cMP(self):
+        pass
