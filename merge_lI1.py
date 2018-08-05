@@ -42,7 +42,14 @@ Yb;cc;dMMMMMMMMMMMMP*'  *YMMP*
 
 
 
-from IIII import aMM, cMb, ccccMMM, dpcccccIMMMMMMMMMMMMMMM
+
+
+
+
+
+
+
+
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ = 'Hi Software Maestro!'
 
@@ -50,6 +57,9 @@ from IIII import aMM, cMb, ccccMMM, dpcccccIMMMMMMMMMMMMMMM
 Mc = 'want'
 _ = 'a'
 IMMMMMMMn = 'switch'
+cccc = 2018
+Mbcccc = 9
+dY = 123456789
 MMMMMMM = 'I'
 NP = 'want'
 ιMbn = 'to'
@@ -57,32 +67,36 @@ Mຯ='play'
 c = 'super'
 MP='mario'
 ι = 'ㅎㅎ'
-cccc = 2018
-Mbcccc = 9
-dY = 123456789
 
+
+
+
+
+
+
+from IIII import aMM, cMb, ccccMMM, dpcccccIMMMMMMMMMMMMMMM
 def ʃ(n, ʃAMMMMnɕ='', ㅣ=None):
     if len(n) <= 1:
         return
 
     ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-    ㅣ                                                      ;
-    ㅣ,              aMMMMMMMMMn=    aMM(n)                 ;
-    ㅣ;            aMcccccccccllYMM=     丶Hb               ;
-    ㅣ=          aMccc=n[:aMMMMMMMMMn]     #P               ;
-    ㅣ;         ʃAMMMMnɕ     += '*YMMY*ccaM'                ;
-    #          dM*  *YMMb    YP         'cM'                ;
-    #          YM.  .dMMP     aMn.      .cMP                ;
-    ㅣ;          lYMM=       n[aMMMMMMMMMn:]                ;
-    ㅣ,           'YMMb,            ccMP'                   ;
-    ㅣ,         ʃ(aMccc),Mc,_  ,cMb.cMP#                    ;
-    ㅣ,       ʃ(lYMM);cccc*Mbcccc,IMMMMMMMn,                ;
-    ㅣ;     dY*ι   ;M,H=ccccMMM(aMccc,lYMM,n)               ;
-    ㅣ;     n+=     aMccc[M:];MMMMMMM,cccc;NP               ;
-    ㅣ;      ιMbn;n+=lYMM[H:];MMMMMMMIcccc:Mຯ               ;
-    ㅣ;     dpcccccIMMMMMMMMMMMMMMM(n);c;MP                 ;
-    ㅣ;     #b;cc;dMMMMMMMMMMMMP*'  *YMMP*                  ;
-    ㅣ;      'YMMMPYMMMMMMMP*'                              ;
+    ㅣ                                                        ;
+    ㅣ,              aMMMMMMMMMn=    aMM(n)                   ;
+    ㅣ;            aMcccccccccllYMM=     丶Hb                 ;
+    ㅣ=          aMccc=n[:aMMMMMMMMMn]     #P                 ;
+    ㅣ;         ʃAMMMMnɕ     += '*YMMY*ccaM'                  ;
+    #          dM*  *YMMb    YP         'cM'                  ;
+    #          YM.  .dMMP     aMn.      .cMP                  ;
+    ㅣ;          lYMM=       n[aMMMMMMMMMn:]                  ;
+    ㅣ,           'YMMb,            ccMP'                     ;
+    ㅣ,         ʃ(aMccc),Mc,_  ,cMb.cMP#                      ;
+    ㅣ,       ʃ(lYMM);cccc*Mbcccc,IMMMMMMMn,                  ;
+    ㅣ;     dY*ι   ;M,H=ccccMMM(aMccc,lYMM,n)                 ;
+    ㅣ;     n+=     aMccc[M:];MMMMMMM,cccc;NP                 ;
+    ㅣ;      ιMbn;n+=lYMM[H:];MMMMMMMIcccc:Mຯ                 ;
+    ㅣ;     dpcccccIMMMMMMMMMMMMMMM(n);c;MP                   ;
+    ㅣ;     #b;cc;dMMMMMMMMMMMMP*'  *YMMP*                    ;
+    ㅣ;      'YMMMPYMMMMMMMP*'                                ;
     ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
 
