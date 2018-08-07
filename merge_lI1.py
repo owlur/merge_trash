@@ -20,24 +20,6 @@
        \::::/    /             \::::/    /             \:::\____\                               \:::\____\               /:::/    /
         \::/    /               \::/____/               \::/    /                                \::/    /               \::/    /
          \/____/                 ~~                      \/____/                                  \/____/                 \/____/
-
-        .aMMMMMMMMMn.  ,aMMMn.
-      .aMccccccccc*lYMMn.     ‘Hb
-     aMccccccccccccccccc*Mn     MP
-    .AMMMMn.     MM ‘*YMMY*ccaM*
-   dM*  *YMMb    YP        'cMY
-   YM.  .dMMP     aMn.     .cMP
-    *YMMn.       aMHHMHHHMHHY'
-      .'YMMb.           ccMP
-   .dMcccccc*Mc....cMb.cMP'
- .dMMMMb;cccc*Mbcccc,IMMMMMMMn.
-dY*‘   '*H:ccccMM..dHMM..MP*cc*Mb
-YH.     ,MbccMMMMMMMMMMMM*cccc;NP
- *Mbn:aMMMMMMMMMMMMMMMMMIcccc:M*
-dpcccccIMMMMMMMMMMMMMMMMMa:c;MP
-Yb;cc;dMMMMMMMMMMMMP*'  *YMMP*
- *YMMMPYMMMMMMMP*'
-
 """
 
 
